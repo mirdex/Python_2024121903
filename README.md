@@ -11,4 +11,4 @@
 - 實務練習
 
 #### 課程大綱
-- [1. MySQL](http://mirdex.github.io/Python_2024121903/)
+- [1. 環境建置](http://mirdex.github.io/Python_2024121903/1.%20environment.slides.html)
