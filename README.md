@@ -21,3 +21,4 @@
 - [8. 類別](http://mirdex.github.io/Python_2024121903/8.%20類別_Q.slides.html)
 - [9. 例外處理](http://mirdex.github.io/Python_2024121903/9.%20例外處理.slides.html)
 - [10. 總複習一 - List Comprehension](http://mirdex.github.io/Python_2024121903/10.%20總複習一_Comprehension_Q.slides.html)
+- [11. 總複習二_- 模組開發](http://mirdex.github.io/Python_2024121903/11.%20總複習二_模組開發_Q.slides.html)
