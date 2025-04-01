@@ -24,3 +24,4 @@
 - [11. 總複習二_- 模組開發](http://mirdex.github.io/Python_2024121903/11.%20總複習二_模組開發_Q.slides.html)
 - [12. 檔案處理](http://mirdex.github.io/Python_2024121903/12.%20檔案處理_Q.slides.html)
 - [13. NumPy](http://mirdex.github.io/Python_2024121903/13.%20NumPy_Q.slides.html)
+- [14. Pandas](http://mirdex.github.io/Python_2024121903/14.%20Pandas_Q.slides.html)
